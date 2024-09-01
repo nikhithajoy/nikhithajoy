@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhitha Joy</h1>
-<h3 align="center">Machine Learning Enthusiast | AI Explorer | Data Science</h3>
+<h3 align="center">Data Science and AI Engineer | Machine Learning Enthusiast | AI Explorer | Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhithajoy&label=Profile%20views&color=0e75b6&style=flat" alt="nikhithajoy" /> </p>
 
