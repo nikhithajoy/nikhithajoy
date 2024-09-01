@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhithajoy&label=Profile%20views&color=0e75b6&style=flat" alt="nikhithajoy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhithajoy" alt="nikhithajoy" /></a> </p>
+Welcome to My GitHub Space!
+Hello! I’m Nikhitha Joy, a recent graduate with a fervent interest in the realms of data science and artificial intelligence. My journey through the intricate landscapes of AI/ML/DL has been nothing short of exhilarating. Whether it's designing intelligent chatbots or analyzing complex language patterns, I’m deeply engaged in harnessing cutting-edge techniques and algorithms to unravel new possibilities and tackle challenging problems.
+
+On my GitHub, you’ll discover a collection of my personal projects, each reflecting my dedication to exploring innovative solutions—from sophisticated NLP models to creative machine learning applications. When I’m not immersed in coding, you might find me delving into AI research or linguistic studies, or enjoying nature’s beauty. I’m always eager to expand my horizons, so don’t hesitate to reach out. Let’s embark on this journey of discovery together!
 
 - 👨‍💻 All of my projects are available at [https://github.com/nikhithajoy](https://github.com/nikhithajoy)
 
