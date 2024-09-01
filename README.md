@@ -1,6 +1,6 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Data Science and AI Engineer</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=nikhithajoy&label=Profile%20views&color=0e75b6&style=flat](https://cdn.dribbble.com/users/1446559/screenshots/5453050/media/b439b83bc5007cf8bb528947098ac4d6.gif)" alt="nikhithajoy" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/users/1446559/screenshots/5453050/media/b439b83bc5007cf8bb528947098ac4d6.gif" alt="nikhithajoy" /> </p>
 
 - 📫 How to reach me **nikhitha.joy.official@gmail.com**
 
