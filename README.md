@@ -1,12 +1,12 @@
 <h1 align="center">Hey 👋, I'm Nikhitha Joy</h1>
-<h3 align="center">Data Science and AI Engineer | Machine Learning Enthusiast | AI Explorer</h3>
+<h3 align="center">Data Science and AI Engineer | Gen AI Enthusiast | AI Explorer</h3>
 
 <h4 align='center'>Welcome to My GitHub Space!</h4>
 <p align='center'>
-  Hello! I’m Nikhitha Joy, a recent graduate with a fervent interest in the realms of data science and artificial intelligence. My journey through the intricate landscapes of AI/ML/DL has been nothing short of exhilarating. Whether it's designing intelligent chatbots or analyzing complex language patterns, I’m deeply engaged in harnessing cutting-edge techniques and algorithms to unravel new possibilities and tackle challenging problems.</p>
+  Hello! I’m Nikhitha Joy, an AI professional with a fervent interest in the realms of data science and artificial intelligence. My journey through the intricate landscapes of AI/ML/DL has been nothing short of exhilarating. Whether it's designing intelligent chatbots or analyzing complex language patterns, I’m deeply engaged in harnessing cutting-edge techniques and algorithms to unravel new possibilities and tackle challenging problems.</p>
 
 <p align='center'>
-On my GitHub, you’ll discover a collection of my personal projects, each reflecting my dedication to exploring innovative solutions—from sophisticated NLP models to creative machine learning applications. When I’m not immersed in coding, you might find me delving into AI research or linguistic studies, or enjoying nature’s beauty. I’m always eager to expand my horizons, so don’t hesitate to reach out. Let’s embark on this journey of discovery together!
+On my GitHub, you’ll discover a collection of my personal projects, each reflecting my dedication to exploring innovative solutions, from sophisticated NLP models to creative machine learning applications. When I’m not immersed in coding, you might find me delving into AI research or linguistic studies, or enjoying nature’s beauty. I’m always eager to expand my horizons, so don’t hesitate to reach out. Let’s embark on this journey of discovery together!
 </p>
 
 <div align='center'>
