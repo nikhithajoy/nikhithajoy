@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Nikhitha Joy</h1>
-<h3 align="center">Data Science and AI Engineer | Gen AI Enthusiast | AI Explorer</h3>
+<h3 align="center">AI Engineer | Gen AI Enthusiast | AI Agents</h3>
 
 <h4 align='center'>Welcome to My GitHub Space!</h4>
 <p align='center'>
