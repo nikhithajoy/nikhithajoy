@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer | Gen AI Enthusiast | AI Agents</h3>
 
 <p align='center'>
-Hello, I’m Nikhitha Joy—an AI Engineer with a strong focus on data science and applied artificial intelligence. My work spans across AI, machine learning, and deep learning, where I enjoy translating complex problems into scalable, intelligent solutions. From architecting conversational AI systems to extracting insights from language-driven data, I am consistently driven by impact, clarity, and innovation.
+Hello, I’m Nikhitha Joy, an AI Engineer with a strong focus on Agentic AI and applied LLMs. My work spans across AI, machine learning, and deep learning, where I enjoy translating complex problems into scalable, intelligent solutions. From architecting conversational AI systems to extracting insights from language-driven data, I am consistently driven by impact, clarity, and innovation.
 </p>
 
 <p align='center'>
