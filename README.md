@@ -1,12 +1,12 @@
 <h1 align="center">Hey 👋, I'm Nikhitha Joy</h1>
 <h3 align="center">AI Engineer | Gen AI Enthusiast | AI Agents</h3>
 
-<h4 align='center'>Welcome to My GitHub Space!</h4>
 <p align='center'>
-  Hello! I’m Nikhitha Joy, an AI professional with a fervent interest in the realms of data science and artificial intelligence. My journey through the intricate landscapes of AI/ML/DL has been nothing short of exhilarating. Whether it's designing intelligent chatbots or analyzing complex language patterns, I’m deeply engaged in harnessing cutting-edge techniques and algorithms to unravel new possibilities and tackle challenging problems.</p>
+Hello, I’m Nikhitha Joy—an AI Engineer with a strong focus on data science and applied artificial intelligence. My work spans across AI, machine learning, and deep learning, where I enjoy translating complex problems into scalable, intelligent solutions. From architecting conversational AI systems to extracting insights from language-driven data, I am consistently driven by impact, clarity, and innovation.
+</p>
 
 <p align='center'>
-On my GitHub, you’ll discover a collection of my personal projects, each reflecting my dedication to exploring innovative solutions, from sophisticated NLP models to creative machine learning applications. When I’m not immersed in coding, you might find me delving into AI research or linguistic studies, or enjoying nature’s beauty. I’m always eager to expand my horizons, so don’t hesitate to reach out. Let’s embark on this journey of discovery together!
+This GitHub serves as a portfolio of my hands-on projects and explorations, showcasing practical implementations across NLP, machine learning pipelines, and experimental AI applications. Each repository reflects my commitment to structured thinking, continuous learning, and delivering value through technology. Beyond development, I actively engage with AI research and interdisciplinary learning to stay ahead of evolving trends. I welcome collaboration, knowledge exchange, and meaningful conversations—feel free to connect.
 </p>
 
 <div align='center'>
