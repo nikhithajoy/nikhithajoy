@@ -1,12 +1,14 @@
 <h1 align="center">Hey 👋, I'm Nikhitha Joy</h1>
-<h3 align="center">AI Engineer | Gen AI Enthusiast | AI Agents</h3>
+<h3 align="center">AI Engineer | Exploring Gen AI & AI Agents</h3>
 
 <p align='center'>
-Hello, I’m Nikhitha Joy, an AI Engineer with a strong focus on Agentic AI and applied LLMs. My work spans across AI, machine learning, and deep learning, where I enjoy translating complex problems into scalable, intelligent solutions. From architecting conversational AI systems to extracting insights from language-driven data, I am consistently driven by impact, clarity, and innovation.
-</p>
+I work on building practical AI systems—especially around LLMs and agent-based applications. I enjoy taking ideas from “this might work” to something real and usable, whether it’s a conversational system, a pipeline, or an experiment that teaches me something new.
 
-<p align='center'>
-This GitHub serves as a portfolio of my hands-on projects and explorations, showcasing practical implementations across NLP, machine learning pipelines, and experimental AI applications. Each repository reflects my commitment to structured thinking, continuous learning, and delivering value through technology. Beyond development, I actively engage with AI research and interdisciplinary learning to stay ahead of evolving trends. I welcome collaboration, knowledge exchange, and meaningful conversations—feel free to connect.
+Most of what I learn comes from building. This GitHub is a collection of those projects—some polished, some experimental—all part of my journey of understanding how AI systems actually work in practice.
+
+Lately, I’ve been spending a lot of time on RAG systems, agent workflows, and making models more reliable in real-world scenarios. I’m always exploring, iterating, and trying to get better at what I do.
+
+If something here interests you or you’d like to collaborate, feel free to reach out.
 </p>
 
 <div align='center'>
