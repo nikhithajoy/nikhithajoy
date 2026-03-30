@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Nikhitha Joy</h1>
+<h1 align="center">Hey, I'm Nikhitha Joy</h1>
 <h3 align="center">AI Engineer | Exploring Gen AI & AI Agents</h3>
 
 <p>
