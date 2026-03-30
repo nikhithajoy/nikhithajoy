@@ -4,7 +4,7 @@
 <p>
 I work on building practical AI systems—especially around LLMs and agent-based applications. I enjoy taking ideas from “this might work” to something real and usable, whether it’s a conversational system, a pipeline, or an experiment that teaches me something new.
 
-Most of what I learn comes from building. This GitHub is a collection of those projects—some polished, some experimental—all part of my journey of understanding how AI systems actually work in practice.
+Most of what I learn comes from building. This GitHub is a collection of those projects, some polished, some experimental, all part of my journey of understanding how AI systems actually work in practice.
 
 Lately, I’ve been spending a lot of time on RAG systems, agent workflows, and making models more reliable in real-world scenarios. I’m always exploring, iterating, and trying to get better at what I do.
 
