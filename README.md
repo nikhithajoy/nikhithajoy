@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Nikhitha Joy</h1>
-<h3 align="center">AI Engineer | Exploring Gen AI & AI Agents</h3>
+<h3 align="center">AI Engineer | Exploring Gen AI & Agentic AI</h3>
 
 <p>
 I work on building practical AI systems, especially around LLMs and agent-based applications. I enjoy taking ideas from “this might work” to something real and usable, whether it’s a conversational system, a pipeline, or an experiment that teaches me something new.
